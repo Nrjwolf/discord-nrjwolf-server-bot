@@ -1,0 +1,4 @@
+/node_modules
+/.vscode
+*.mp4
+*.env
